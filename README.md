@@ -59,6 +59,7 @@ a.   KVL:
 b.  KCL:
 
 
+[EXP 1.pdf](https://github.com/user-attachments/files/25895299/EXP.1.pdf)
 
 
 Tabulation:
